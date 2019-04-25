@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppRealizarLlamada</string>
+    <string name="string_Biendenidos">B I E N V E N I D O </string>
+    <string name="string_Crea_cuenta">Crear cuenta gratuita </string>
+    <string name="string_Usuario">Usuario</string>
+    <string name="string_Contraseña">Contraseña</string>
+    <string name="string_Ingresar">Ingresar</string>
+    <string name="string_CrearNC">Crear Nueva Cuenta</string>
+    <string name="string_Crear">Crear</string>
+    <string name="string_correo_toast">No hay cliente que manipular</string>
+
+
+    <string name="string_txtv_nombre">Citlallin</string>
+    <string name="string_txtv_telefono">5549330552</string>
+    <string name="string_txtv_correo">perla@homtail.com</string>
+    <string name="string_correo_subject">Mi mensaje de contacto</string>
+    <string name="string_correo_text">Este es mi mensaje enviado desde mi app.</string>
+    <string name="string_correo_enviar">Enviar correo . . .</string>
+</resources>
